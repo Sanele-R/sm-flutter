@@ -1,2 +1,3 @@
 # sm-flutter
-Flutter basics
+## Learning flutter
+- Words generate testing
